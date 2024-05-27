@@ -1,6 +1,3 @@
-'''
-Task 03 ByteUprise
-'''
 import sys
 
 print("\t\t\tThis is a Text Encrypter and Decrypter Tool made by Arka\n")
